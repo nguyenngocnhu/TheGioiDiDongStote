@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /admin/*
+
+Sitemap: http://www.itlearngroup.click/sitemap.xml
+
+
